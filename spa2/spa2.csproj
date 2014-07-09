@@ -227,7 +227,7 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <None Include="info.md">
+    <None Include="readme.md">
       <SubType>Designer</SubType>
     </None>
     <Content Include="Scripts\bootstrap.js" />
